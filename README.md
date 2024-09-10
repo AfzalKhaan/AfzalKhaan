@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Data Analytics tools like, SQL, Advanced Excel, Power BI, Python
 - 💞️ I’m looking to collaborate on Data Science tools, technology, jobs, career Opportunity
-- 📫 How to reach me [Linkedin] {https://www.linkedin.com/in/afzalkhan-pathan-98b93710a/}
+- 📫 How to reach me [Linkedin] {https://www.linkedin.com/in/afzalkhan-pathan-98b93710a/} 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
