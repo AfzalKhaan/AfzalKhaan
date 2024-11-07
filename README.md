@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AfzalKhaan
-- 👀 I’m a Data Enthusiast
+- 👀 I’m a Data Enthusiast and a learner for life
 - 🌱 I have hands on experience & knowledge in Data Analytics tools like, SQL, Advanced Excel, Power BI, Python
-- 💞️ I’m looking to collaborate on Data Science tools, technology, jobs, career Opportunity
+- 💞️ I’m looking to collaborate on Data Science tools, technology & career Opportunity
 - 📫 How to reach me [Linkedin] {https://www.linkedin.com/in/afzalkhan-pathan-98b93710a/} 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
