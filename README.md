@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AfzalKhaan
-- 👀 I’m a Data Science aspirant
-- 🌱 I’m currently learning Data Analytics tools like, SQL, Advanced Excel, Power BI, Python
+- 👀 I’m a Data Enthusiast
+- 🌱 I’m Hands on Experience & knowledge in Data Analytics tools like, SQL, Advanced Excel, Power BI, Python
 - 💞️ I’m looking to collaborate on Data Science tools, technology, jobs, career Opportunity
 - 📫 How to reach me [Linkedin] {https://www.linkedin.com/in/afzalkhan-pathan-98b93710a/} 
 - 😄 Pronouns: ...
